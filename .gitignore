@@ -130,6 +130,15 @@ ENV/
 env.bak/
 venv.bak/
 
+.sapt
+.sapt
+sapt/
+sapt/
+sapt/
+env.bak/
+sapt.bak/
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
